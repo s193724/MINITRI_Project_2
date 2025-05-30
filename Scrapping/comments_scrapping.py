@@ -28,7 +28,7 @@ def parse_date_format(raw_date):
         return None  # Return None if it doesn't match any format
 
 # Function to scrape reviews with date and hours played
-def scrape_reviews(driver, game_url, target_reviews=750):
+def scrape_reviews(driver, game_url, target_reviews=1700):
     driver.get(game_url)
     reviews_collected = 0
     review_data = []
@@ -108,9 +108,9 @@ def save_reviews_to_csv(game_name, reviews):
 game_urls = [
     'https://steamcommunity.com/app/730/reviews/?browsefilter=toprated&snr=1_5_100010_&p=1&filterLanguage=english#scrollTop=0', #csgo
     'https://steamcommunity.com/app/578080/reviews/?browsefilter=toprated&snr=1_5_100010_&p=1&filterLanguage=english#scrollTop=0', #pubg
-    'https://steamcommunity.com/app/1172470/reviews/?p=1&browsefilter=toprated&filterLanguage=english',
-    'https://steamcommunity.com/app/359550/reviews/?p=1&browsefilter=toprated&filterLanguage=english',
-    'https://steamcommunity.com/app/1938090/reviews/?p=1&browsefilter=toprated&filterLanguage=english'
+    #'https://steamcommunity.com/app/1172470/reviews/?p=1&browsefilter=toprated&filterLanguage=english',
+    #'https://steamcommunity.com/app/359550/reviews/?p=1&browsefilter=toprated&filterLanguage=english',
+    #'https://steamcommunity.com/app/1938090/reviews/?p=1&browsefilter=toprated&filterLanguage=english'
 ]
 
 # Dictionary to store all reviews
