@@ -1,8 +1,8 @@
 import pandas as pd
 import re
-name ='Counter_Strike'
+name ='Terraria'
 # Load your CSV
-df = pd.read_csv(f'{name}_reviews.csv')
+df = pd.read_csv(f'Scrapping/{name}_reviews.csv')
 
 # Clean 'Hours Played' (remove commas, convert to float)
 df['Hours Played'] = df['Hours Played'].astype(str).str.replace(',', '', regex=False).astype(float)

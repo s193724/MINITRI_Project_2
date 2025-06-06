@@ -6,6 +6,7 @@ Game,Date,Hours Played,Recommendation,Helpful Votes
 730,2023-08-14,172.1,Recommended,918
 730,2017-01-05,9383.9,Recommended,1055
 730,2022-01-20,1691.2,Recommended,874
+730,2018-07-15,48524.2,Not Recommended,3115
 730,2023-09-20,13.0,Recommended,7638
 730,2021-02-11,7179.1,Recommended,1203
 730,2022-10-29,638.0,Recommended,624
@@ -51,6 +52,7 @@ Game,Date,Hours Played,Recommendation,Helpful Votes
 730,2023-02-09,1034.8,Recommended,383
 730,2024-07-03,163.8,Recommended,710
 730,2024-04-13,2872.9,Not Recommended,377
+730,2019-06-10,9492.3,Recommended,278
 730,2021-08-10,13774.9,Recommended,544
 730,2021-07-12,578.0,Recommended,545
 730,2021-10-13,171.8,Recommended,624
@@ -109,6 +111,7 @@ Game,Date,Hours Played,Recommendation,Helpful Votes
 730,2023-12-24,3237.8,Not Recommended,1548
 730,2021-02-23,493.7,Recommended,398
 730,2018-10-15,2366.0,Recommended,693
+730,2021-12-23,2894.4,Recommended,102
 730,2021-03-04,3219.0,Not Recommended,166
 730,2022-01-09,42.1,Recommended,206
 730,2021-04-24,11.2,Recommended,987
@@ -133,6 +136,7 @@ Game,Date,Hours Played,Recommendation,Helpful Votes
 730,2018-10-01,1722.0,Recommended,369
 730,2018-12-07,634.2,Recommended,10389
 730,2023-09-27,3017.5,Not Recommended,655
+730,2017-02-03,13402.6,Recommended,126
 730,2023-10-22,847.7,Not Recommended,1418
 730,2020-12-29,51.7,Recommended,304
 730,2017-12-26,1026.1,Recommended,383
@@ -238,6 +242,7 @@ Game,Date,Hours Played,Recommendation,Helpful Votes
 730,2020-03-30,6756.1,Recommended,1042
 730,2024-04-12,952.6,Recommended,338
 730,2022-11-09,12.6,Recommended,168
+730,2021-03-22,3062.6,Recommended,147
 730,2016-10-24,1511.2,Recommended,2021
 730,2023-08-24,1427.8,Recommended,665
 730,2017-07-20,997.0,Recommended,1013
@@ -299,6 +304,7 @@ Game,Date,Hours Played,Recommendation,Helpful Votes
 730,2023-09-28,52.8,Recommended,261
 730,2016-07-20,12191.4,Recommended,80
 730,2022-02-26,1535.4,Recommended,122
+730,2023-12-14,476.1,Recommended,251
 730,2023-12-14,277.3,Recommended,284
 730,2022-06-15,353.4,Recommended,394
 730,2017-06-27,2173.2,Recommended,1946
@@ -445,6 +451,7 @@ Game,Date,Hours Played,Recommendation,Helpful Votes
 730,2013-12-04,12542.1,Recommended,43
 730,2022-11-19,1896.2,Recommended,402
 730,2018-12-07,646.6,Not Recommended,1093
+730,2022-02-15,3502.4,Recommended,129
 730,2014-03-11,3684.1,Recommended,433
 730,2014-10-08,4592.2,Recommended,3734
 730,2020-10-29,13239.8,Recommended,119
@@ -506,6 +513,7 @@ Game,Date,Hours Played,Recommendation,Helpful Votes
 730,2023-04-13,11.2,Recommended,787
 730,2015-09-01,3243.5,Recommended,960
 730,2022-07-02,2439.9,Not Recommended,122
+730,2020-08-21,139.1,Recommended,111
 730,2023-10-09,11986.4,Not Recommended,133
 730,2024-02-11,156.4,Recommended,479
 730,2020-04-25,1102.6,Not Recommended,68
@@ -668,6 +676,7 @@ Game,Date,Hours Played,Recommendation,Helpful Votes
 730,2016-02-17,1705.1,Recommended,39
 730,2017-10-19,1289.6,Not Recommended,537
 730,2022-12-24,1335.5,Not Recommended,129
+730,2023-11-02,8701.6,Recommended,40
 730,2023-11-05,1028.2,Not Recommended,532
 730,2015-06-19,8498.5,Recommended,32
 730,2024-03-15,1909.9,Not Recommended,80
