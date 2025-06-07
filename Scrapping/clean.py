@@ -1,6 +1,6 @@
 import pandas as pd
 import re
-name ='Terraria'
+name ='SIMS'
 # Load your CSV
 df = pd.read_csv(f'Scrapping/{name}_reviews.csv')
 
